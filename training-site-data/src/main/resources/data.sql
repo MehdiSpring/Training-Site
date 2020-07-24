@@ -1,0 +1,1 @@
+insert into categorie(titre) values('Informatique');
