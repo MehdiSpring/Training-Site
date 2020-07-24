@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.springguru</groupId>
     <artifactId>training-site</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
   <artifactId>training-site-data</artifactId>
   <name>training-site-data</name>
